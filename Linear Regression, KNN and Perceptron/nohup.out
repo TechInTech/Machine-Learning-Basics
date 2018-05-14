@@ -1,0 +1,81 @@
+[I 15:51:36.476 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 15:51:37.941 NotebookApp] Serving notebooks from local directory: /home/arshdeep/Desktop/csci-567-master/Assignment-1
+[I 15:51:37.941 NotebookApp] The Jupyter Notebook is running at:
+[I 15:51:37.941 NotebookApp] http://localhost:8888/?token=a3cea0ae24e550bdbe434fd7ca7d1778365f68a92de62e9f
+[I 15:51:37.941 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:51:37.942 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a3cea0ae24e550bdbe434fd7ca7d1778365f68a92de62e9f
+[I 15:51:38.352 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+Opening in existing browser session.
+[W 15:51:49.213 NotebookApp] Notebook main.ipynb is not trusted
+[I 15:51:50.409 NotebookApp] Kernel started: 33c771da-933b-4251-b153-d2db7a93e45d
+[I 15:51:51.557 NotebookApp] Adapting to protocol v5.1 for kernel 33c771da-933b-4251-b153-d2db7a93e45d
+[I 15:53:50.404 NotebookApp] Saving file at /main.ipynb
+[W 15:53:50.404 NotebookApp] Notebook main.ipynb is not trusted
+[I 15:55:50.352 NotebookApp] Saving file at /main.ipynb
+[W 15:55:50.353 NotebookApp] Notebook main.ipynb is not trusted
+[I 15:57:50.349 NotebookApp] Saving file at /main.ipynb
+[W 15:57:50.350 NotebookApp] Notebook main.ipynb is not trusted
+[I 12:11:18.058 NotebookApp] Starting buffering for 33c771da-933b-4251-b153-d2db7a93e45d:220b9aca59524f1e9f3d318150f13e6f
+[I 18:51:20.313 NotebookApp] Serving notebooks from local directory: /home/arshdeep/Desktop/csci-567-master/Assignment-1
+[I 18:51:20.313 NotebookApp] The Jupyter Notebook is running at:
+[I 18:51:20.313 NotebookApp] http://localhost:8888/?token=fec03ab19fabc0ea009ab18dc704b6391f1099297b010230
+[I 18:51:20.313 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:51:20.313 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fec03ab19fabc0ea009ab18dc704b6391f1099297b010230
+[I 18:51:20.629 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+Opening in existing browser session.
+[W 18:52:30.473 NotebookApp] Notebook main.ipynb is not trusted
+[I 18:52:31.703 NotebookApp] Kernel started: adf7d954-5e06-45ce-a262-b7eba646705d
+[I 18:52:32.984 NotebookApp] Adapting to protocol v5.1 for kernel adf7d954-5e06-45ce-a262-b7eba646705d
+[I 18:52:51.491 NotebookApp] Starting buffering for adf7d954-5e06-45ce-a262-b7eba646705d:b495468c50804d729d6207b2ec027c48
+[I 18:52:52.212 NotebookApp] Kernel restarted: adf7d954-5e06-45ce-a262-b7eba646705d
+[I 18:52:53.695 NotebookApp] Adapting to protocol v5.1 for kernel adf7d954-5e06-45ce-a262-b7eba646705d
+[I 18:52:53.696 NotebookApp] Restoring connection for adf7d954-5e06-45ce-a262-b7eba646705d:b495468c50804d729d6207b2ec027c48
+[I 18:52:53.696 NotebookApp] Replaying 6 buffered messages
+[I 18:54:31.670 NotebookApp] Saving file at /main.ipynb
+[I 19:19:29.994 NotebookApp] Starting buffering for adf7d954-5e06-45ce-a262-b7eba646705d:b495468c50804d729d6207b2ec027c48
+[I 19:19:30.414 NotebookApp] Kernel restarted: adf7d954-5e06-45ce-a262-b7eba646705d
+[I 19:19:31.122 NotebookApp] Adapting to protocol v5.1 for kernel adf7d954-5e06-45ce-a262-b7eba646705d
+[I 19:19:31.123 NotebookApp] Restoring connection for adf7d954-5e06-45ce-a262-b7eba646705d:b495468c50804d729d6207b2ec027c48
+[I 19:19:31.123 NotebookApp] Replaying 6 buffered messages
+[I 19:20:31.651 NotebookApp] Saving file at /main.ipynb
+[W 20:48:24.103 NotebookApp] 404 GET /api/contents?type=directory&_=1547644881184 (127.0.0.1): No such file or directory: 
+[W 20:48:24.103 NotebookApp] No such file or directory: 
+[W 20:48:24.103 NotebookApp] 404 GET /api/contents?type=directory&_=1547644881184 (127.0.0.1) 1.09ms referer=http://localhost:8888/tree
+[W 20:48:39.302 NotebookApp] 404 GET /tree (127.0.0.1) 30.16ms referer=None
+[W 20:48:44.065 NotebookApp] 404 GET /notebooks/main.ipynb (127.0.0.1): No such file or directory: main.ipynb
+[W 20:48:44.066 NotebookApp] 404 GET /notebooks/main.ipynb (127.0.0.1) 1.80ms referer=http://localhost:8888/tree
+[I 20:48:44.076 NotebookApp] Starting buffering for adf7d954-5e06-45ce-a262-b7eba646705d:b495468c50804d729d6207b2ec027c48
+[W 21:21:49.032 NotebookApp] 404 GET /notebooks/main.ipynb (127.0.0.1): No such file or directory: main.ipynb
+[W 21:21:49.034 NotebookApp] 404 GET /notebooks/main.ipynb (127.0.0.1) 2.06ms referer=http://localhost:8888/tree
+[W 21:21:54.141 NotebookApp] 404 GET /notebooks/ (127.0.0.1): No such file or directory: 
+[W 21:21:54.143 NotebookApp] 404 GET /notebooks/ (127.0.0.1) 1.87ms referer=None
+[W 21:22:04.802 NotebookApp] 404 GET /notebooks/ (127.0.0.1): No such file or directory: 
+[W 21:22:04.803 NotebookApp] 404 GET /notebooks/ (127.0.0.1) 1.80ms referer=None
+[W 21:22:12.343 NotebookApp] 404 GET /notebooks/ (127.0.0.1): No such file or directory: 
+[W 21:22:12.345 NotebookApp] 404 GET /notebooks/ (127.0.0.1) 1.68ms referer=None
+[W 21:22:15.465 NotebookApp] 404 GET /notebooks (127.0.0.1): No such file or directory: 
+[W 21:22:15.466 NotebookApp] 404 GET /notebooks (127.0.0.1) 1.72ms referer=None
+[I 21:22:20.211 NotebookApp] 302 GET / (127.0.0.1) 0.39ms
+[W 21:22:20.217 NotebookApp] 404 GET /tree? (127.0.0.1) 1.61ms referer=None
+[W 21:26:00.379 NotebookApp] 404 GET /tree? (127.0.0.1) 1.65ms referer=None
+[I 21:36:57.195 NotebookApp] Serving notebooks from local directory: /home/arshdeep/Desktop/csci-567-master/Linear Regression, KNN and Perceptron
+[I 21:36:57.196 NotebookApp] The Jupyter Notebook is running at:
+[I 21:36:57.196 NotebookApp] http://localhost:8888/?token=ff27aa6eadfc694af32a04899fedbd5f281a65ff744bab97
+[I 21:36:57.196 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:36:57.196 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ff27aa6eadfc694af32a04899fedbd5f281a65ff744bab97
+[I 21:36:57.550 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+Opening in existing browser session.
+[I 21:37:04.714 NotebookApp] Kernel started: 75d59871-8a14-4e84-946d-e5cee7e1076e
+[I 21:37:05.558 NotebookApp] Adapting to protocol v5.1 for kernel 75d59871-8a14-4e84-946d-e5cee7e1076e
